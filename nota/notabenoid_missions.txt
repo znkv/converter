@@ -1,0 +1,151 @@
+﻿Arzhan-Tin Devoured
+
+(Invisible Cryomancer)
+
+(Invisible Venomancer)
+
+(Pyromancer)
+
+(Cryomancer)
+
+(Hydromancer)
+
+(Venomancer)
+
+(Electromancer)
+
+Kundry Kahn Devoured
+
+(Invisible Pyromancer)
+
+Devour Por Myec
+
+(Invisible Corpumancer)
+
+(Invisible Mechanomancer)
+
+Devour the Pyromancer
+
+(Fungalmancer)
+
+Devour the Cryomancer
+
+Varren Ovrin Devoured
+
+(Aeromancer)
+
+(Terramancer)
+
+(Necromancer)
+
+(Thaumamancer)
+
+(Sanguimancer)
+
+Sto'h Derrig Devoured
+
+(Invisible Electromancer)
+
+(Invisible Hydromancer)
+
+Padra Sakrev Devoured
+
+(Invisible Aeromancer)
+
+(Invisible Terramancer)
+
+Ekriks Graycloud Devoured
+
+Aur Cyrus Devoured
+
+Celus Zend Devoured
+
+Nix Ocifiris Devoured
+
+(Corpumancer)
+
+(Mechanomancer)
+
+(Luminimancer)
+
+Devour Ture Vasari
+
+(Invisible Thaumamancer)
+
+(Invisible Neuromancer)
+
+(Invisible Dracomancer)
+
+(Invisible Diablomancer)
+
+(Invisible Chronomancer)
+
+(Invisible Sanguimancer)
+
+Devour Ghor Lorhotha
+
+(Invisible Fungalmancer)
+
+(Invisible Luminimancer)
+
+Devour Anamus Kane
+
+Devour Luxian Steel-Glass
+
+Devour Zyzak Zuun
+
+(Invisible Kinetomancer)
+
+(Invisible Bibliomancer)
+
+Devour Draeaxenerion
+
+Devour Zaruman Tam
+
+Devour Nephael Mos
+
+Devour Parxa Krass
+
+Devour Logostus Rime
+
+Devour the Venomancer
+
+Devour the Fungalmancer
+
+Devour the Electromancer
+
+Devour the Hydromancer
+
+Devour the Aeromancer
+
+Devour the Terramancer
+
+Devour the Thaumamancer
+
+Devour the Sanguimancer
+
+Devour the Necromancer
+
+Devour the Corpumancer
+
+Devour the Luminimancer
+
+Devour the Mechanomancer
+
+Devour the Chronomancer
+
+Devour the Dracomancer
+
+Devour the Neuromancer
+
+Devour the Diablomancer
+
+Devour the Umbramancer
+
+Devour the Kinetomancer
+
+Devour the Bibliomancer
+
+Devour Vodin Tenebre
+
+(Invisible Necromancer)
